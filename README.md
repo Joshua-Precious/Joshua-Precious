@@ -6,7 +6,6 @@
 
 [![Email](https://img.shields.io/badge/Email-pcjosh00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pcjosh00@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B234%20810%20533%206930-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+2348105336930)
 
 </div>
@@ -19,7 +18,7 @@ I'm a Software Developer based in **Lagos, Nigeria**, passionate about designing
 
 I enjoy working across the stack — from crafting clean REST APIs and microservices on the backend, to building responsive, user-friendly interfaces on the frontend — and I actively leverage AI coding assistants to write better, faster, and more reliable code.
 
-- 🔭 Currently building scalable backend systems at **Codesordinate Studio**
+- 🔭 Building scalable systems
 - 🌱 Deepening my expertise in **Microservices Architecture** and **AI Integration**
 - 🤝 Open to collaborating on **Full-Stack** and **AI-powered** projects
 - 🎓 B.Sc. Software Engineering, Mountain Top University (2021 – 2025)
@@ -62,22 +61,6 @@ I enjoy working across the stack — from crafting clean REST APIs and microserv
 
 ---
 
-## 💼 Experience
-
-### 🧩 Software Developer — Codesordinate Studio
-**Aug 2025 – Feb 2026** · Lagos, Nigeria
-- Designed and implemented secure, scalable microservices architecture, translating product requirements into maintainable software solutions
-- Collaborated with UI/UX designers to implement responsive, user-friendly interfaces
-- Leveraged AI coding assistants to optimize code reviews, testing, and debugging processes
-- Built modular components and reusable codebases to improve team productivity
-- Contributed to sprint planning and documentation in an agile environment
-
-### 🧩 Software Developer Intern — Agusto & Co.
-**Apr 2024 – Sep 2024** · Lagos, Nigeria
-- Applied new web and mobile development tools, libraries, and frameworks to enhance product capabilities
-- Executed end-to-end testing and validation of in-house software prior to launch
-- Provided technical support to internal teams
-- Developed features integrating AI-powered APIs to enhance product capabilities
 
 ---
 
@@ -95,22 +78,6 @@ Developed an AI-driven writing assistant integrating the **OpenAI API** with an 
 
 ---
 
-## 🎓 Volunteer Experience
-
-### 👨‍🏫 Backend Instructor — CodeCrafters
-- Taught backend development fundamentals including RESTful API design, server architecture, and database integration
-- Explained core concepts such as HTTP protocols, routing, and authentication
-- Mentored students through hands-on coding exercises to strengthen practical backend skills
-
----
-
-## 📚 Education
-
-**B.Sc. Software Engineering** — Mountain Top University, Makogi Oba, Nigeria
-*Sep 2021 – Aug 2025*
-Coursework: Data Structures & Algorithms, Software Architecture, Web App Development
-
----
 
 ## 📫 Let's Connect
 
@@ -120,6 +87,6 @@ Coursework: Data Structures & Algorithms, Software Architecture, Web App Develop
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com)
 
-⭐️ *Thanks for stopping by — feel free to explore my repositories!*
+⭐️ *Thanks for stopping by!*
 
 </div>
