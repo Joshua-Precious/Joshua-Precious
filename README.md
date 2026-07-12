@@ -1,16 +1,125 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Joshua-Precious/Joshua-Precious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Joshua Ishiegbu 👋
 
-Here are some ideas to get you started:
+### Software Engineer | Backend & Full-Stack Developer | AI Integration Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Email-pcjosh00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pcjosh00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B234%20810%20533%206930-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+2348105336930)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a Software Developer based in **Lagos, Nigeria**, passionate about designing secure, scalable microservices and building AI-powered products that solve real problems. I recently graduated with a **B.Sc. in Software Engineering** from Mountain Top University, and I currently work at **Codesordinate Studio**, where I translate product requirements into maintainable, production-ready software.
+
+I enjoy working across the stack — from crafting clean REST APIs and microservices on the backend, to building responsive, user-friendly interfaces on the frontend — and I actively leverage AI coding assistants to write better, faster, and more reliable code.
+
+- 🔭 Currently building scalable backend systems at **Codesordinate Studio**
+- 🌱 Deepening my expertise in **Microservices Architecture** and **AI Integration**
+- 🤝 Open to collaborating on **Full-Stack** and **AI-powered** projects
+- 🎓 B.Sc. Software Engineering, Mountain Top University (2021 – 2025)
+- 💬 Ask me about **NestJS, React, REST APIs, or AI-assisted development**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Technologies**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI Integration**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=OpenRouter&logoColor=white)
+![AI Coding Assistants](https://img.shields.io/badge/AI_Coding_Assistants-4B8BBE?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🧩 Software Developer — Codesordinate Studio
+**Aug 2025 – Feb 2026** · Lagos, Nigeria
+- Designed and implemented secure, scalable microservices architecture, translating product requirements into maintainable software solutions
+- Collaborated with UI/UX designers to implement responsive, user-friendly interfaces
+- Leveraged AI coding assistants to optimize code reviews, testing, and debugging processes
+- Built modular components and reusable codebases to improve team productivity
+- Contributed to sprint planning and documentation in an agile environment
+
+### 🧩 Software Developer Intern — Agusto & Co.
+**Apr 2024 – Sep 2024** · Lagos, Nigeria
+- Applied new web and mobile development tools, libraries, and frameworks to enhance product capabilities
+- Executed end-to-end testing and validation of in-house software prior to launch
+- Provided technical support to internal teams
+- Developed features integrating AI-powered APIs to enhance product capabilities
+
+---
+
+## 🌟 Featured Projects
+
+### 🌾 [Agriclimate](#)
+Built a scalable microservices-based backend using **NestJS (TypeScript)** and **PostgreSQL** to process real-time weather data from external APIs and deliver predictive climate analytics to farmers.
+
+`NestJS` `TypeScript` `PostgreSQL` `Microservices` `REST APIs`
+
+### ✍️ [Message Genie](#)
+Developed an AI-driven writing assistant integrating the **OpenAI API** with an **Express (JavaScript)** backend and **React** frontend to generate personalized apologies, birthday wishes, and appreciation messages.
+
+`React` `Express` `OpenAI API` `JavaScript`
+
+---
+
+## 🎓 Volunteer Experience
+
+### 👨‍🏫 Backend Instructor — CodeCrafters
+- Taught backend development fundamentals including RESTful API design, server architecture, and database integration
+- Explained core concepts such as HTTP protocols, routing, and authentication
+- Mentored students through hands-on coding exercises to strengthen practical backend skills
+
+---
+
+## 📚 Education
+
+**B.Sc. Software Engineering** — Mountain Top University, Makogi Oba, Nigeria
+*Sep 2021 – Aug 2025*
+Coursework: Data Structures & Algorithms, Software Architecture, Web App Development
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-pcjosh00@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:pcjosh00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com)
+
+⭐️ *Thanks for stopping by — feel free to explore my repositories!*
+
+</div>
