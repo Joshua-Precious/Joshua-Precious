@@ -59,34 +59,5 @@ I enjoy working across the stack — from crafting clean REST APIs and microserv
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
 
 
----
-
-## 🌟 Featured Projects
-
-### 🌾 [Agriclimate](#)
-Built a scalable microservices-based backend using **NestJS (TypeScript)** and **PostgreSQL** to process real-time weather data from external APIs and deliver predictive climate analytics to farmers.
-
-`NestJS` `TypeScript` `PostgreSQL` `Microservices` `REST APIs`
-
-### ✍️ [Message Genie](#)
-Developed an AI-driven writing assistant integrating the **OpenAI API** with an **Express (JavaScript)** backend and **React** frontend to generate personalized apologies, birthday wishes, and appreciation messages.
-
-`React` `Express` `OpenAI API` `JavaScript`
-
----
-
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/-pcjosh00@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:pcjosh00@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com)
-
-⭐️ *Thanks for stopping by!*
-
-</div>
